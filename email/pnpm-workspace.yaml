@@ -1,0 +1,8 @@
+packages: []
+
+allowBuilds:
+  sharp: true
+  unrs-resolver: true
+  msw: false
+  corsair: true
+  better-sqlite3: true
